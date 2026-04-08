@@ -1,4 +1,4 @@
-<img width="1354" height="677" alt="image" src="https://github.com/user-attachments/assets/a9e92c54-f7c5-47bf-afed-af190c997eda" /># AWS Security Posture Management (SPM) Platform
+# AWS Security Posture Management (SPM) Platform
 
 A real-time cloud security monitoring and auto-remediation platform built on AWS.
 Continuously monitors an AWS account, scores it against CIS Benchmark standards,
